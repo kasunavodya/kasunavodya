@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Kasuni 👋
 
-<!--
-**kasunavodya/kasunavodya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer (React / Next.js / Laravel)
+🌍 Based in Sri Lanka
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a passionate software engineer with experience building web applications, dashboards, and POS systems. I enjoy creating clean UI and scalable frontend architectures.
+
+---
+
+## 🛠 Tech Stack
+
+* Frontend: React, Next.js, Tailwind CSS
+* Backend: Laravel, REST APIs
+* Tools: Git, Figma, Postman
+
+---
+
+## 📂 Featured Projects
+
+### 🍽 Restaurant POS System
+
+* Built order management system with dashboard
+* Responsive UI and real-time updates
+* Tech: Next.js + Laravel
+
+🔗 Live Demo: https://your-link
+💻 GitHub: https://github.com/your-repo
+
+---
+
+### 🎉 Fan Tables Platform
+
+* Influencer-based booking UI
+* Dynamic filtering and responsive design
+
+🔗 Live Demo: https://your-link
+💻 GitHub: https://github.com/your-repo
+
+---
+
+## 📫 Contact Me
+
+* Email: kasunavodya@gmail.com
+* LinkedIn: your-linkedin-link
+* Portfolio: your-portfolio-link
+
