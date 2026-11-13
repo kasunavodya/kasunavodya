@@ -1,50 +1,16 @@
-# Hi, I'm Kasuni 👋
+# Hey! I'm Kasuni Makalanda 👋🏼
 
-💻 Software Engineer (React / Next.js / Laravel)
-🌍 Based in Sri Lanka
+💻 Software Engineer passionate about web development and creating user-friendly digital experiences.  
+🎓 B.Sc. (Hons) in IT – Software Engineering, **SLIIT**.  
+🎓 Currently pursuing M.Sc. in Software Engineering and Management at **University of Gothenburg, Sweden** 🇸🇪.  
+🌍 Originally from Sri Lanka 🇱🇰, now living in Gothenburg, Sweden.
 
----
+🚀 **Interests:** Full Stack Development | React | Next.js | PHP | Laravel | WordPress | UI/UX Design | Figma
 
-## 🚀 About Me
+🎨 **Beyond coding:** 🌿 Nature | 🎵 Music & Dancing | 🎂 Baking & Cake Decorating
 
-I am a passionate software engineer with experience building web applications, dashboards, and POS systems. I enjoy creating clean UI and scalable frontend architectures.
+📫 **Let's connect:**  
+- LinkedIn: https://www.linkedin.com/in/kasuni-makalanda/
+- Portfolio: [My Portfolio](YOUR_PORTFOLIO_URL)
 
----
-
-## 🛠 Tech Stack
-
-* Frontend: React, Next.js, Tailwind CSS
-* Backend: Laravel, REST APIs
-* Tools: Git, Figma, Postman
-
----
-
-## 📂 Featured Projects
-
-### 🍽 Restaurant POS System
-
-* Built order management system with dashboard
-* Responsive UI and real-time updates
-* Tech: Next.js + Laravel
-
-🔗 Live Demo: https://your-link
-💻 GitHub: https://github.com/your-repo
-
----
-
-### 🎉 Fan Tables Platform
-
-* Influencer-based booking UI
-* Dynamic filtering and responsive design
-
-🔗 Live Demo: https://your-link
-💻 GitHub: https://github.com/your-repo
-
----
-
-## 📫 Contact Me
-
-* Email: kasunavodya@gmail.com
-* LinkedIn: your-linkedin-link
-* Portfolio: your-portfolio-link
-
+✨ *Stay curious, keep learning, and create something meaningful!*
